@@ -203,6 +203,7 @@
 
 ## nextjs 
 
+- [amphineko/reactiveneko](https://github.com/amphineko/reactiveneko) - Reactive atomicneko!
 - [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
 
 ## node 
@@ -215,6 +216,9 @@
 
 ## others 
 
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [TankNee/AnonymousQuestionBox](https://github.com/TankNee/AnonymousQuestionBox) - 
+- [Nanonona/canokey-management-tool](https://github.com/Nanonona/canokey-management-tool) - 
 - [Adlyq/DashBoard-1](https://github.com/Adlyq/DashBoard-1) - 
 - [canokeys/canokey-pigeon](https://github.com/canokeys/canokey-pigeon) - 
 - [ForgQi/biliup-app](https://github.com/ForgQi/biliup-app) - b站全平台投稿客户端，支持多p投稿，稿件编辑
@@ -290,6 +294,7 @@
 
 ## react 
 
+- [amphineko/reactiveneko](https://github.com/amphineko/reactiveneko) - Reactive atomicneko!
 - [lefex/FE](https://github.com/lefex/FE) - 前端 100 天，帮助 10W 人入门并进阶前端。
 - [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。
 - [imzbf/md-editor-rt](https://github.com/imzbf/md-editor-rt) - Markdown editor for react, developed in jsx and typescript, dark theme、beautify content by prettier、render articles directly、paste or clip the picture and upload it...
